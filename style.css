@@ -1,0 +1,70 @@
+
+
+
+.sanduiche {
+    position: relative;
+    
+}
+
+img {
+    display: block;
+}
+
+#alface {
+    position: absolute;
+    top:310px;
+    left:calc(50% - 596px/2);
+    z-index: -1;
+    
+}
+
+#pao-topo {
+    position: absolute;
+    top: 230px;
+    left: calc(50% - 476px/2);
+    z-index: 0;
+    
+}
+
+#tomate {
+    position: absolute;
+    top:330px;
+    left:calc(50% - 501px/2);
+    z-index: -2;
+}
+  
+#cebolas {
+    position: absolute;
+    top: 340px;
+    left:calc(50% - 456px/2);
+    z-index: -3;
+}
+
+#queijo {
+    position: absolute;
+    top:350px;
+    left:calc(50% - 521px/2);
+    z-index: -4;
+}
+
+#paofundo {
+    position: absolute;
+    top:420px;
+    left:calc(50% - 490px/2);
+    z-index: -7;
+}
+
+#queijo2 {
+    position: absolute;
+    top: 420px;
+    left:calc(50% - 521px/2);
+    z-index: -6;
+}
+
+#hamburguer {
+    position: absolute;
+    top: 350px;
+    left: calc(50% - 490px/2);
+    z-index: -5;
+}
+
